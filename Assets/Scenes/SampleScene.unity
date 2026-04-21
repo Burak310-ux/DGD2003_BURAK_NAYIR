@@ -739,7 +739,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PairMatcher
   pairId: C
-  destroyVfx: {fileID: 0}
+  destroyVfx: {fileID: 6391297399207585152, guid: d4ff76fb63687924f9cc160907c58e08, type: 3}
   destroySfx: {fileID: 0}
 --- !u!1 &330585543 stripped
 GameObject:
@@ -1327,7 +1327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PairMatcher
   pairId: B
-  destroyVfx: {fileID: 1603998895}
+  destroyVfx: {fileID: 6391297399207585152, guid: d4ff76fb63687924f9cc160907c58e08, type: 3}
   destroySfx: {fileID: 0}
 --- !u!1 &765552247
 GameObject:
@@ -1730,7 +1730,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PairMatcher
   pairId: A
-  destroyVfx: {fileID: 1771358181}
+  destroyVfx: {fileID: 6391297399207585152, guid: d4ff76fb63687924f9cc160907c58e08, type: 3}
   destroySfx: {fileID: 0}
 --- !u!1 &990050915
 GameObject:
@@ -1901,7 +1901,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PairMatcher
   pairId: C
-  destroyVfx: {fileID: 305142075}
+  destroyVfx: {fileID: 6391297399207585152, guid: d4ff76fb63687924f9cc160907c58e08, type: 3}
   destroySfx: {fileID: 0}
 --- !u!1 &1114813373
 GameObject:
@@ -2664,7 +2664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PairMatcher
   pairId: B
-  destroyVfx: {fileID: 0}
+  destroyVfx: {fileID: 6391297399207585152, guid: d4ff76fb63687924f9cc160907c58e08, type: 3}
   destroySfx: {fileID: 0}
 --- !u!1 &1660220411
 GameObject:
@@ -3005,7 +3005,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PairMatcher
   pairId: A
-  destroyVfx: {fileID: 0}
+  destroyVfx: {fileID: 6391297399207585152, guid: d4ff76fb63687924f9cc160907c58e08, type: 3}
   destroySfx: {fileID: 0}
 --- !u!1 &1950021681
 GameObject:
